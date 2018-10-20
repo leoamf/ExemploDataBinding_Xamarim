@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{857A766F-3996-4A2C-A846-9C6308EFFF69}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExemploDataBinding/App.xaml.cs">
+    <Files>
+      <File FileName="ExemploDataBinding/MainPage.xaml.cs" Line="7" Column="1" />
+      <File FileName="ExemploDataBinding/MainPage.xaml" Line="4" Column="16" />
+      <File FileName="ExemploDataBinding.iOS/Info.plist" />
+      <File FileName="ExemploDataBinding/App.xaml" Line="5" Column="15" />
+      <File FileName="ExemploDataBinding/App.xaml.cs" Line="14" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExemploDataBinding.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExemploDataBinding.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D029A314-5281-4523-A8AD-0C159DCC4933" automaticSigning="False" />
+</Properties>

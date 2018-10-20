@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:ExemploDataBinding" x:Class="ExemploDataBinding.MainPage">
+        
+ <StackLayout >
+
+         <Entry Keyboard="Url" x:Name="url" Placeholder="DIGITE A URL"
+                 Completed="Handle_Completed"  
+                 />  
+
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" BindingContext="{x:Reference areaBrowser}" >
+            <Button x:Name="voltar" Text="Voltar" HorizontalOptions="CenterAndExpand" Clicked="Handle_Clicked"
+                    IsEnabled="{Binding CanGoBack}"/>
+            <Button x:Name="avancar" Text="Avançar"  HorizontalOptions="CenterAndExpand" Clicked="Handle_Clicked_1" 
+                    IsEnabled="{Binding CanGoForward}"/>
+
+        </StackLayout >
+         
+        <WebView x:Name="areaBrowser" 
+                 VerticalOptions="FillAndExpand"
+                 Source="http://www.google.com"   
+                 />
+   </StackLayout >
+
+ </ContentPage>

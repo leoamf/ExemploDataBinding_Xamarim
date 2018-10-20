@@ -1,0 +1,12 @@
+/Users/aluno/Desktop/ExemploDataBinding_Xamarim/ExemploDataBinding/ExemploDataBinding/bin/Debug/netstandard2.0/ExemploDataBinding.deps.json
+/Users/aluno/Desktop/ExemploDataBinding_Xamarim/ExemploDataBinding/ExemploDataBinding/bin/Debug/netstandard2.0/ExemploDataBinding.dll
+/Users/aluno/Desktop/ExemploDataBinding_Xamarim/ExemploDataBinding/ExemploDataBinding/bin/Debug/netstandard2.0/ExemploDataBinding.pdb
+/Users/aluno/Desktop/ExemploDataBinding_Xamarim/ExemploDataBinding/ExemploDataBinding/obj/Debug/netstandard2.0/ExemploDataBinding.csprojAssemblyReference.cache
+/Users/aluno/Desktop/ExemploDataBinding_Xamarim/ExemploDataBinding/ExemploDataBinding/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/ExemploDataBinding_Xamarim/ExemploDataBinding/ExemploDataBinding/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/ExemploDataBinding_Xamarim/ExemploDataBinding/ExemploDataBinding/obj/Debug/netstandard2.0/ExemploDataBinding.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/ExemploDataBinding_Xamarim/ExemploDataBinding/ExemploDataBinding/obj/Debug/netstandard2.0/ExemploDataBinding.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/ExemploDataBinding_Xamarim/ExemploDataBinding/ExemploDataBinding/obj/Debug/netstandard2.0/ExemploDataBinding.AssemblyInfo.cs
+/Users/aluno/Desktop/ExemploDataBinding_Xamarim/ExemploDataBinding/ExemploDataBinding/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/ExemploDataBinding_Xamarim/ExemploDataBinding/ExemploDataBinding/obj/Debug/netstandard2.0/ExemploDataBinding.dll
+/Users/aluno/Desktop/ExemploDataBinding_Xamarim/ExemploDataBinding/ExemploDataBinding/obj/Debug/netstandard2.0/ExemploDataBinding.pdb
